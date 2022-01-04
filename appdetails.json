@@ -16,6 +16,6 @@
     {"id":6, "app":"com.get.client"}
   ],
   "free":[
-    {"id":0, "file":0, "city":"Milano","country":"Italy","image":"germany","ip":"it-mil.prod.surfshark.com","active":"true","signal":"a"},
+    {"id":0, "file":0, "city":"Milano","country":"Italy","image":"italy","ip":"94.177.203.218","active":"true","signal":"a"},
   ]
 }
